@@ -1,0 +1,1 @@
+Simplemente incluya la (s) hoja (s) de estilo correctas en su html y cárguelas solo para una impresora. Gutenberg.css es la hoja de estilo base, pero hay temas disponibles en la carpeta de temas.
